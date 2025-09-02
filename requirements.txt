@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+nudenet==0.0.6
+Pillow
